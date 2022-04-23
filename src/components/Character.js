@@ -12,8 +12,9 @@ const CharactersDiv = styled.div`
     width: 60%;
     margin: 0 auto;
     font-size: 25px;
+    color: white;
     padding: 0.5rem;
-    border: 2px black solid;
+    border: 1px green solid;
     margin-top: 2%;
   }
 `;

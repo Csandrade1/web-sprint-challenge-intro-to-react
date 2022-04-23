@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-  background-image: url("./images/sw-bg.jpg");
+  font-family: monospace;
+  background-image: url("https://images.pond5.com/space-stars-4k-universe-flickering-footage-084866431_prevstill.jpeg");
   background-size: cover;
 }
 * {

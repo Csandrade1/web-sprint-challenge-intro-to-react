@@ -7,7 +7,9 @@
 
 .Header {
   font-size: 60px;
-  padding-top: 2rem;
+  padding-top: 5rem;
+  color: white;
+  font-family: "Segoe UI";
 }
 
 /* write your parent styles in here for your App.js */
