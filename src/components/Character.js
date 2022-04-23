@@ -16,10 +16,6 @@ const CharactersDiv = styled.div`
     border: 2px black solid;
     margin-top: 2%;
   }
-
-  div h2 h2 {
-    font-size: 10px;
-  }
 `;
 
 export default function Character(props) {
